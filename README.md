@@ -4,7 +4,7 @@
 
 Um profissional de 20 anos, formado em Técnico em Eletrônica e cursando Engenharia da Computação na [FIAP](https://www.fiap.com.br/). Apaixonado por tecnologias no geral, cybersecurity, carros, finanças e empreendedorismo, me arriscando com trades em cryptos, além do mercado nacional de Fii's.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/wallacequeirozlima)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/wallacequeirozlima)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wallace_ql/)
 [![WebSite](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://keepo.io/wallace)
 
