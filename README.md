@@ -11,8 +11,8 @@ Um profissional de 20 anos, formado em Técnico em Eletrônica e cursando Engenh
 ---
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=WallaceQ13&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" style="display: inline-block; vertical-align: middle;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceQ13&layout=compact&theme=transparent" alt="Top Langs" style="display: inline-block; vertical-align: middle;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=WallaceQ13&show_icons=true&theme=transparent&include_all_comits_true&locale=pt-br" alt="Anurag's GitHub stats" style="display: inline-block; vertical-align: middle;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceQ13&layout=compact&theme=transparent&include_all_comits_true&locale=pt-br" alt="Top Langs" style="display: inline-block; vertical-align: middle;" />
 </div>
 
 ---
