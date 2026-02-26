@@ -4,7 +4,6 @@
 
 Estudante de Engenharia da Computação com formação técnica em Eletrônica.  
 Interesses em sistemas embarcados, IoT, cybersecurity e desenvolvimento de software.  
-Explorando também finanças, mercado cripto e FIIs.
 
 ---
 
@@ -25,9 +24,7 @@ Explorando também finanças, mercado cripto e FIIs.
 
 ---
 
-## 🚀 Tecnologias & Linguagens
-
-### 👨‍💻 Linguagens
+## 🚀 Linguagens mais familiares
 
 <div style="display: inline_block"><br/>
 
@@ -39,29 +36,3 @@ Explorando também finanças, mercado cripto e FIIs.
 <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 </div>
-
----
-
-### ⚙️ Tecnologias & Hardware
-
-<div style="display: inline_block"><br/>
-
-<img align="center" alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img align="center" alt="ESP32" src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
-<img align="center" alt="Raspberry Pi" src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-<img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-</div>
-
----
-
-## 🎯 Objetivo
-
-Buscando oportunidades de estágio e projetos nas áreas de:
-
-- Sistemas Embarcados  
-- Internet das Coisas (IoT)  
-- Desenvolvimento de Software  
-- Cybersecurity  
-
-Sempre aberto a novos desafios e aprendizado contínuo.
