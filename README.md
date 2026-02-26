@@ -2,7 +2,7 @@
 
 **`Técnico Eletrônico`** **`Engenheiro da Computação`**
 
-Um profissional de 20 anos, formado em Técnico em Eletrônica e cursando Engenharia da Computação na [FIAP](https://www.fiap.com.br/). Apaixonado por tecnologias no geral, cybersecurity, carros, finanças e empreendedorismo, me arriscando com trades em cryptos, além do mercado nacional de Fii's.
+Um profissional de 21 anos, formado em Técnico em Eletrônica e cursando Engenharia da Computação na [FIAP](https://www.fiap.com.br/). Apaixonado por tecnologias no geral, cybersecurity, carros, finanças e empreendedorismo, me arriscando com trades em cryptos, além do mercado nacional de Fii's.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/wallacequeirozlima)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wallace_ql/)
@@ -11,8 +11,8 @@ Um profissional de 20 anos, formado em Técnico em Eletrônica e cursando Engenh
 ---
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=WallaceQ13&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br" alt="Anurag's GitHub stats" style="display: inline-block; vertical-align: middle;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceQ13&layout=compact&theme=transparent&include_all_commits=true&locale=pt-br" alt="Top Langs" style="display: inline-block; vertical-align: middle;" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WallaceQ13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceQ13&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
