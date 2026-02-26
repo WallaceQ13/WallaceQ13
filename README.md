@@ -9,7 +9,7 @@ Interesses em sistemas embarcados, IoT, cybersecurity e desenvolvimento de softw
 
 ## 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallacequeirozlima)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallacequeirozlima)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wallace_ql/)
 [![EcoSphere](https://img.shields.io/badge/EcoSphere-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://huggingface.co/spaces/lucvartanian/ecosphere)
 
