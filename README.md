@@ -1,43 +1,67 @@
 ## 👨🏻‍💻 Wallace Queiroz
 
-**`Técnico em Eletrônica`** • **`Engenharia da Computação - FIAP`**
+**Técnico em Eletrônica** • **Graduando em Engenharia da Computação - FIAP**
 
-Profissional de 21 anos com formação técnica em Eletrônica e graduando em Engenharia da Computação.  
-Interesses em tecnologia, cybersecurity, sistemas embarcados, carros, finanças e empreendedorismo.  
-Atualmente explorando mercado cripto e FIIs.
+Estudante de Engenharia da Computação com formação técnica em Eletrônica.  
+Interesses em sistemas embarcados, IoT, cybersecurity e desenvolvimento de software.  
+Explorando também finanças, mercado cripto e FIIs.
 
 ---
 
-### 🌐 Conecte-se comigo
+## 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](http://www.linkedin.com/in/wallacequeirozlima)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallacequeirozlima)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wallace_ql/)
-[![Projeto Acadêmico](https://img.shields.io/badge/Projeto_Acadêmico-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://huggingface.co/spaces/lucvartanian/ecosphere)
-
+[![EcoSphere](https://img.shields.io/badge/EcoSphere-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://huggingface.co/spaces/lucvartanian/ecosphere)
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=WallaceQ13&show_icons=true&theme=tokyonight"/>
-
   <img height="170em" src="https://streak-stats.demolab.com?user=WallaceQ13&theme=tokyonight"/>
-
 </div>
 
 ---
 
-## 🚀 Linguagens mais familiares
+## 🚀 Tecnologias & Linguagens
+
+### 👨‍💻 Linguagens
 
 <div style="display: inline_block"><br/>
 
 <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img align="center" alt="Java" src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white"/>
+<img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 </div>
+
+---
+
+### ⚙️ Tecnologias & Hardware
+
+<div style="display: inline_block"><br/>
+
+<img align="center" alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img align="center" alt="ESP32" src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img align="center" alt="Raspberry Pi" src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+<img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</div>
+
+---
+
+## 🎯 Objetivo
+
+Buscando oportunidades de estágio e projetos nas áreas de:
+
+- Sistemas Embarcados  
+- Internet das Coisas (IoT)  
+- Desenvolvimento de Software  
+- Cybersecurity  
+
+Sempre aberto a novos desafios e aprendizado contínuo.
