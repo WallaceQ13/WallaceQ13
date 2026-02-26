@@ -12,7 +12,8 @@ Atualmente explorando mercado cripto e FIIs.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/wallacequeirozlima)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wallace_ql/)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://huggingface.co/spaces/lucvartanian/ecosphere)
+[![Projeto Acadêmico](https://img.shields.io/badge/Projeto_Acadêmico-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://huggingface.co/spaces/lucvartanian/ecosphere)
+
 
 ---
 
