@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WallaceQ13&show_icons=true" />
-</p>
+<img src="https://streak-stats.demolab.com?user=WallaceQ13&theme=tokyonight"/>
