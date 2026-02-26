@@ -11,8 +11,8 @@ Um profissional de 20 anos, formado em Técnico em Eletrônica e cursando Engenh
 ---
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=WallaceQ13&show_icons=true&theme=transparent&include_all_comits_true&locale=pt-br" alt="Anurag's GitHub stats" style="display: inline-block; vertical-align: middle;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceQ13&layout=compact&theme=transparent&include_all_comits_true&locale=pt-br" alt="Top Langs" style="display: inline-block; vertical-align: middle;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=WallaceQ13&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br" alt="Anurag's GitHub stats" style="display: inline-block; vertical-align: middle;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceQ13&layout=compact&theme=transparent&include_all_commits=true&locale=pt-br" alt="Top Langs" style="display: inline-block; vertical-align: middle;" />
 </div>
 
 ---
@@ -22,6 +22,7 @@ Um profissional de 20 anos, formado em Técnico em Eletrônica e cursando Engenh
 <div style="display: inline_block"><br/>
     <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
