@@ -18,7 +18,6 @@ Interesses em sistemas embarcados, IoT, cybersecurity e desenvolvimento de softw
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WallaceQ13&show_icons=true&theme=tokyonight"/>
   <img height="170em" src="https://streak-stats.demolab.com?user=WallaceQ13&theme=tokyonight"/>
 </div>
 
